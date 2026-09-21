@@ -204,4 +204,11 @@ export const certificates = [
     year: "2025",
     image: "/certificates/certificate-6.jpg",
   },
+  {
+   id: 7,
+    title: "Odoo Erp Sytem",
+    issuer: "DrukSmart",
+    year: "2026",
+    image: "/certificates/certificate-7.jpg",
+  },
 ];
