@@ -70,19 +70,20 @@ export const projects = [
   {
     id: 1,
     number: "01",
-    title: "LinguaLip AI",
+    title: "Email Spam Or Not Classification",
     category: "AI / MACHINE LEARNING",
     description:
-      "An AI-powered video dubbing platform for multilingual speech synthesis, translation and lip synchronization.",
+      "An UI/UX Design website that shows whether email is spam or ham with machine learning",
     technologies: [
       "Python",
       "Streamlit",
-      "PyTorch",
+      "Pandas",
       "ML",
-      "Wav2Lip",
+      "Sklearn",
+      "nltk",
     ],
-    github: "#",
-    demo: "#",
+    github: "https://github.com/Tshewangtjp/EmailSpamOrNot.git",
+    demo: "https://emailspamornot-hmqyduvtnb7acc7yr8c7ca.streamlit.app/",
   },
 
   {
